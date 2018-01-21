@@ -1,6 +1,6 @@
 # SG Markets Notebooks
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/https://gitlab.com/sgmarkets/sgmarkets-notebooks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sgmarkets/sgmarkets-notebooks/master)
 
 This repo contains a collection of notebooks to help tap SG Market APIs.  
 These [Jupyter](http://jupyter.org/) notebooks are meant to be used as inspiration.  
