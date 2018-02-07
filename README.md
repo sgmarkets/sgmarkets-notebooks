@@ -10,7 +10,7 @@ To run them
 + In the cloud: Click on the **Binder** badge above, and go inside the `notebooks/` folder, click on a notebook.  
 
 To browse them
-+ [demo_ROTB_vol.ipynb](http://nbviewer.jupyter.org/urls/gitlab.com/sgmarkets/sgmarkets-notebooks/raw/master/notebooks/demo_ROTB_vol.ipynb)
++ [demo_ROTB_vol.ipynb](http://nbviewer.jupyter.org/github/sgmarkets/sgmarkets-notebooks/blob/master/notebooks/demo_ROTB_vol.ipynb)
 + TBD
 
 It is a work in progress. Notebooks are regularly updated and/or added.  
