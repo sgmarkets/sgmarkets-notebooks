@@ -1,3 +1,4 @@
 #!/bin/bash
 
+# unnecessary since notebook>5.3
 # jupyter nbextension enable --py widgetsnbextension
